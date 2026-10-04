@@ -1,0 +1,22 @@
+{
+  "name": "trytofu",
+  "version": "1.0.18",
+  "description": "Take an app live and keep it running with Tofu: deploy it, check its status and logs, restore an earlier version, connect a domain, and add a database or Google sign-in, all from chat.",
+  "author": {
+    "name": "Tofu",
+    "email": "hello@trytofu.ai"
+  },
+  "homepage": "https://trytofu.ai/docs/agent",
+  "license": "MIT",
+  "keywords": [
+    "deploy",
+    "hosting",
+    "web apps",
+    "domains",
+    "database",
+    "logs"
+  ],
+  "logo": ".cursor-plugin/icon.png",
+  "skills": "./.cursor-plugin/skills/",
+  "mcpServers": "./.cursor-plugin/mcp.json"
+}
