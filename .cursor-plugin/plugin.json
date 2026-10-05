@@ -1,6 +1,6 @@
 {
   "name": "trytofu",
-  "version": "1.0.18",
+  "version": "1.0.19",
   "description": "Take an app live and keep it running with Tofu: deploy it, check its status and logs, restore an earlier version, connect a domain, and add a database or Google sign-in, all from chat.",
   "author": {
     "name": "Tofu",
