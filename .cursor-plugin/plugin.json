@@ -1,7 +1,7 @@
 {
   "name": "trytofu",
-  "version": "1.0.55",
-  "description": "Take an app live and keep it running with Tofu: deploy it, check its status and logs, restore an earlier version, connect a domain, and add a database or Google sign-in, all from chat.",
+  "version": "1.0.58",
+  "description": "Tofu (trytofu.ai) puts apps built with an AI tool online: deploy an app, check its status and logs, restore an earlier version, connect a domain, and add a database or Google sign-in, all from chat.",
   "author": {
     "name": "Tofu",
     "email": "hello@trytofu.ai"
